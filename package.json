@@ -1,0 +1,23 @@
+{
+  "name": "module-federation-poc",
+  "version": "0.0.1",
+  "description": "Module federation proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priitpu/module-federation-poc.git"
+  },
+  "author": "priitp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priitpu/module-federation-poc/issues"
+  },
+  "homepage": "https://github.com/priitpu/module-federation-poc#readme",
+  "devDependencies": {
+    "turbo": "^2.4.4"
+  },
+  "packageManager": "npm@10.9.0"
+}
