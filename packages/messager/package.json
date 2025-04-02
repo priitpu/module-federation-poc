@@ -1,0 +1,11 @@
+{
+  "name": "@repo/messager",
+  "version": "0.0.1",
+  "description": "Messaging utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
